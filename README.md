@@ -1,20 +1,21 @@
-This repository contains the code for the practical experiences of the course IA2023 - Artificial Intelligence, taught at the Aeronautics University Institute (IUA) in the second semester of 2023.
+## Repository for my artificial intelligence course at IUA - Ewan TALEC
+This repository's purpose is to display the result of the practical experiences of the Artificial Intelligence course, taught at the (IUA) in the second semester of 2023.
 
-Structure of the repository
+### Structure:
 The repository is structured as follows:
+> Each folder contains a `README.md` file containing the instructions for each practical.
+- `tp1-agentes-resolucion-problemas/`: This practical consists of implementing a problem resolution agent.
+- 
+- `tp2-conocimiento-incertidumbre/`: This practical consists of implementing a knowledge and uncertainty agent. **Not implemented yet.**
 
-Each folder contains a README.md file with the instructions for the corresponding practical experience.
+- `tp3-aprendizaje/`: This practical consists of implementing a learning agent.
+:construction: **Not implemented yet.**
 
-tp1-agentes-resolucion-problemas/: contains the code for the first practical experience, which consists of the implementation of a problem resolution agent.
+- `tp4-optimizacion-aplicaciones/`: This practical consists of the implementation of an optimization agent.
+:construction: **Not implemented yet.**
 
-tp2-conocimiento-incertidumbre/: contains the code for the second practical experience, which consists of the implementation of a knowledge and uncertainty agent.
+### How to run the code:
+Each folder contains a `README.md` file with the instructions to run each practical.
 
-tp3-aprendizaje/: contains the code for the third practical experience, which consists of the implementation of a learning agent. 🚧 Not implemented yet.
-
-tp4-optimizacion-aplicaciones/: contains the code for the fourth practical experience, which consists of the implementation of an optimization agent. 🚧 Not implemented yet.
-
-How to run the code
-Each folder contains a README.md file with the instructions for the corresponding practical experience.
-
-Authors
-Ewan TALEC - Aeronautics University Institute
+### Authors
+- __[Ewan TALEC](https://github.com/Ewantal)__
