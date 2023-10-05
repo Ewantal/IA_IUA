@@ -6,7 +6,7 @@ The repository is structured as follows:
 > Each folder contains a `README.md` file containing the instructions for each practical.
 - `tp1-agentes-resolucion-problemas/`: This practical consists of implementing a problem resolution agent.
   
-- `tp2-conocimiento-incertidumbre/`: This practical consists of implementing a knowledge and uncertainty agent. **Not implemented yet.**
+- `tp2-conocimiento-incertidumbre/`: This practical consists of implementing a knowledge and uncertainty agent.
 
 - `tp3-aprendizaje/`: This practical consists of implementing a learning agent. **Not implemented yet.**
 
