@@ -8,7 +8,7 @@ The repository is structured as follows:
   
 - `tp2-conocimiento-incertidumbre/`: This practical consists of implementing a knowledge and uncertainty agent.
 
-- `tp3-aprendizaje/`: This practical consists of implementing a learning agent. **Not implemented yet.**
+- `tp3-aprendizaje/`: This practical consists of implementing a learning agent.
 
 - `tp4-optimizacion-aplicaciones/`: This practical consists of the implementation of an optimization agent. **Not implemented yet.**
 
