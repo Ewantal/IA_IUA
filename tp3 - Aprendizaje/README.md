@@ -12,16 +12,16 @@ The objective of this assignment is to create a predictive model that classifies
 - Loading the shopping dataset containing user sessions with various features.
 - Splitting the dataset into evidence (features) and labels (purchase or no-purchase indications).
 
-#Model Training:
+#### Model Training:
 
 Using a K-Nearest Neighbors (KNN) classifier to train the model. 
 The KNN model learns patterns in the evidence data to predict whether a user will make a purchase.
 
-#Evaluation:
+#### Evaluation:
 
 Assessing the model's performance by calculating Sensitivity (True Positive Rate) and Specificity (True Negative Rate) to measure how well it predicts purchases and non-purchases.
 
-#Interpretation of Results:
+#### Interpretation of Results:
 
 Analyzing the model's ability to predict user behavior based on its sensitivity and specificity metrics.
     
