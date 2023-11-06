@@ -29,9 +29,9 @@ Analyzing the model's ability to predict user behavior based on its sensitivity 
 
 :warning: Ensure you have Python 3.10 or higher installed.
 
-:warning: You'll need scikit-learn library. To install, use the following:
+:warning: You'll need scikit-learn library.
 
-To run the agent, execute the following command:
+To install the library, execute the following command:
 
 ```bash
 pip install scikit-learn
