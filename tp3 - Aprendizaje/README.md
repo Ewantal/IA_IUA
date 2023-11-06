@@ -8,7 +8,7 @@ The objective of this assignment is to create a predictive model that classifies
 
 #### How to solve the problem
 
-#Initialization:
+#### Initialization:
 - Loading the shopping dataset containing user sessions with various features.
 - Splitting the dataset into evidence (features) and labels (purchase or no-purchase indications).
 
