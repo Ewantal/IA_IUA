@@ -10,7 +10,7 @@ The repository is structured as follows:
 
 - `tp3-aprendizaje/`: This practical consists of implementing a learning agent.
 
-- `tp4-optimizacion-aplicaciones/`: This practical consists of the implementation of an optimization agent. **Not implemented yet.**
+- `tp4-optimizacion-aplicaciones/`: This practical consists of the implementation of an optimization agent.
 
 ### How to run the code:
 Each folder contains a `README.md` file with the instructions to run each practical.
